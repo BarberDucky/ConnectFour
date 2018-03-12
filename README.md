@@ -1,0 +1,1 @@
+Connect Four AI developed as a Game Theory project.

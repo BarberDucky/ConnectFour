@@ -1,0 +1,252 @@
+D:\III godina\Teorija Igara\ConnectFour1\ConnectFour1\Data\bin\Debug\Data.dll
+D:\III godina\Teorija Igara\ConnectFour1\ConnectFour1\Data\bin\Debug\Data.pdb
+D:\III godina\Teorija Igara\ConnectFour1\ConnectFour1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\III godina\Teorija Igara\ConnectFour1\ConnectFour1\Data\obj\Debug\Data.dll
+D:\III godina\Teorija Igara\ConnectFour1\ConnectFour1\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\ConnectFour1\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\ConnectFour1\Data\bin\Debug\Data.pdb
+C:\Users\Damjan\Desktop\ConnectFour1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\ConnectFour1\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\ConnectFour1\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\ConnectFour1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\III godina\Teorija Igara\ConnectFour1(Subota25Dec)\ConnectFour1\Data\bin\Debug\Data.dll
+D:\III godina\Teorija Igara\ConnectFour1(Subota25Dec)\ConnectFour1\Data\bin\Debug\Data.pdb
+D:\III godina\Teorija Igara\ConnectFour1(Subota25Dec)\ConnectFour1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\III godina\Teorija Igara\ConnectFour1(Subota25Dec)\ConnectFour1\Data\obj\Debug\Data.dll
+D:\III godina\Teorija Igara\ConnectFour1(Subota25Dec)\ConnectFour1\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\ConnectFour1(Subota25Dec)\ConnectFour1\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\ConnectFour1(Subota25Dec)\ConnectFour1\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\ConnectFour1(Subota25Dec)\ConnectFour1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\ConnectFour1(Subota25Dec)\ConnectFour1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\ConnectFour1(Subota25Dec)\ConnectFour1\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\ConnectFour1(Subota25Dec)\ConnectFour1\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\ConnectFourNovi\ConnectFour\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\ConnectFourNovi\ConnectFour\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\ConnectFourNovi\ConnectFour\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\ConnectFourNovi\ConnectFour\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\ConnectFourNovi\ConnectFour\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\ConnectFour\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\ConnectFour\Data\bin\Debug\Data.pdb
+C:\Users\Damjan\Desktop\ConnectFour\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\ConnectFour\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\ConnectFour\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\ConnectFour\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\ConnectFourAna\ConnectFour\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\ConnectFourAna\ConnectFour\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\ConnectFourAna\ConnectFour\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\ConnectFourAna\ConnectFour\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\ConnectFourAna\ConnectFour\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\ConnectFourAna\ConnectFourAna\ConnectFour\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\ConnectFourAna\ConnectFourAna\ConnectFour\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\ConnectFourAna\ConnectFourAna\ConnectFour\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\ConnectFourAna\ConnectFourAna\ConnectFour\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\ConnectFourAna\ConnectFourAna\ConnectFour\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\ConnectFourAna\ConnectFourAna\ConnectFour\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - radna verzija\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - radna verzija\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - radna verzija\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - radna verzija\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - radna verzija\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - radna verzija\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - radna verzija\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Connect Four - radna verzija\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\Connect Four - radna verzija\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - radna verzija\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - radna verzija\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - radna verzija\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - radna verzijaNovo\Connect Four - radna verzija\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - radna verzijaNovo\Connect Four - radna verzija\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - radna verzijaNovo\Connect Four - radna verzija\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - radna verzijaNovo\Connect Four - radna verzija\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - radna verzijaNovo\Connect Four - radna verzija\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - radna verzijaNovo\Connect Four - radna verzija\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - AI\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - AI\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - AI\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - AI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - AI\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - AI\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - AI\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - AI\Data\bin\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - AI\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Connect Four - AI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\Connect Four - AI\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - AI\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - AI\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - AI\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - AI\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - AI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - AI\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - AI\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Nije Singleton\Connect Four - AI\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Nije Singleton\Connect Four - AI\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Nije Singleton\Connect Four - AI\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Nije Singleton\Connect Four - AI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Nije Singleton\Connect Four - AI\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Nije Singleton\Connect Four - AI\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - Nije Singleton\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - Nije Singleton\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - Nije Singleton\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - Nije Singleton\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - Nije Singleton\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - Nije Singleton\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Nije Singleton\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Nije Singleton\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Nije Singleton\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Nije Singleton\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Nije Singleton\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Nije Singleton\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - samo Bitboard\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - samo Bitboard\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - samo Bitboard\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - samo Bitboard\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - samo Bitboard\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - samo Bitboard\Connect Four - samo Bitboard\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - samo Bitboard\Connect Four - samo Bitboard\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - samo Bitboard\Connect Four - samo Bitboard\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\Connect Four - samo Bitboard\Connect Four - samo Bitboard\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - samo Bitboard\Connect Four - samo Bitboard\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - samo Bitboard\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - samo Bitboard\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - samo Bitboard\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - samo Bitboard\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - samo Bitboard\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - samo Bitboard\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija - Greedy\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija - Greedy\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija - Greedy\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija - Greedy\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija - Greedy\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - samo Bitboard - novi interfejs\Connect Four - Evaluacija - Greedy\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\greedy111\Connect Four - Evaluacija - Greedy\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\greedy111\Connect Four - Evaluacija - Greedy\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\greedy111\Connect Four - Evaluacija - Greedy\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\greedy111\Connect Four - Evaluacija - Greedy\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\greedy111\Connect Four - Evaluacija - Greedy\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\greedy111\Connect Four - Evaluacija - Greedy\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Greedy+Threat\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Greedy+Threat\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Greedy+Threat\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Greedy+Threat\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Greedy+Threat\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Greedy+Threat\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Benchmark\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Benchmark\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Benchmark\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Benchmark\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Benchmark\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Benchmark\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Benchmark\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Benchmark\Data\bin\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Benchmark\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Connect Four - Benchmark\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\Connect Four - Benchmark\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Benchmark\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim plus kuglice\Connect Four - BM+Elim\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Radno\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Radno\Data\bin\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Radno\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Connect Four - Radno\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\Connect Four - Radno\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Radno\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - Radno\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - Radno\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - Radno\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - Radno\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - Radno\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - Radno\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - BM + Transp (1)\Connect Four - BM + Transp\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - BM + Transp (1)\Connect Four - BM + Transp\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - BM + Transp (1)\Connect Four - BM + Transp\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\Connect Four - BM + Transp (1)\Connect Four - BM + Transp\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - BM + Transp (1)\Connect Four - BM + Transp\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Modifikovan BM + Transp\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Modifikovan BM + Transp\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Modifikovan BM + Transp\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Modifikovan BM + Transp\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Modifikovan BM + Transp\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - Modifikovan BM + Transp\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Connect Four - Transp oba algoritma\Data\bin\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Connect Four - Transp oba algoritma\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Connect Four - Transp oba algoritma\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Connect Four - Transp oba algoritma\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Connect Four - Transp oba algoritma\Data\obj\Debug\Data.dll
+C:\Users\Milica\Documents\Visual Studio 2017\Projects\Connect Four\Connect Four - NADAM SE DA JE STVARNO FIXOVANO\Connect Four - Transp oba algoritma\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Transp - Ajmo ponovo\Connect Four - Transp - Ajmo ponovo\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Transp - Ajmo ponovo\Connect Four - Transp - Ajmo ponovo\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Transp - Ajmo ponovo\Connect Four - Transp - Ajmo ponovo\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Transp - Ajmo ponovo\Connect Four - Transp - Ajmo ponovo\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Transp - Ajmo ponovo\Connect Four - Transp - Ajmo ponovo\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Baza XML\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Baza XML\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Baza XML\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Baza XML\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - Baza XML\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Baza XML\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Baza XML\Data\bin\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Baza XML\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Connect Four - Baza XML\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\Connect Four - Baza XML\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Baza XML\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - Baza Binary\Connect Four - Baza Binary\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - Baza Binary\Connect Four - Baza Binary\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - Baza Binary\Connect Four - Baza Binary\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - Baza Binary\Connect Four - Baza Binary\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - Baza Binary\Connect Four - Baza Binary\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - Baza Binary\Connect Four - Baza Binary\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Baza Binary - 3001\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Baza Binary - 3001\Data\bin\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Baza Binary - 3001\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Connect Four - Baza Binary - 3001\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\Connect Four - Baza Binary - 3001\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Baza Binary - 3001\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - ZA MILICU\Connect Four - Baza Binary - 3001\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - ZA MILICU\Connect Four - Baza Binary - 3001\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - ZA MILICU\Connect Four - Baza Binary - 3001\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - ZA MILICU\Connect Four - Baza Binary - 3001\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - ZA MILICU\Connect Four - Baza Binary - 3001\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - ZA MILICU\Connect Four - Baza Binary - 3001\Data\obj\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Punimo bazu\Data\bin\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Punimo bazu\Data\bin\Debug\Data.pdb
+C:\Users\Damjan\Desktop\Connect Four - Punimo bazu\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Connect Four - Punimo bazu\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\Connect Four - Punimo bazu\Data\obj\Debug\Data.dll
+C:\Users\Damjan\Desktop\Connect Four - Punimo bazu\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four Almost Final\Connect Four - Punimo bazu\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four Almost Final\Connect Four - Punimo bazu\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four Almost Final\Connect Four - Punimo bazu\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\Connect Four Almost Final\Connect Four - Punimo bazu\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four Almost Final\Connect Four - Punimo bazu\Data\obj\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - Nadam Se Final\Data\bin\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - Nadam Se Final\Data\bin\Debug\Data.pdb
+C:\Users\Milica\Downloads\Connect Four - Nadam Se Final\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Downloads\Connect Four - Nadam Se Final\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Connect Four - Nadam Se Final\Data\obj\Debug\Data.dll
+C:\Users\Milica\Downloads\Connect Four - Nadam Se Final\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III faza skoro gotova\Connect Four - III faza skoro gotova\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III faza skoro gotova\Connect Four - III faza skoro gotova\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III faza skoro gotova\Connect Four - III faza skoro gotova\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III faza skoro gotova\Connect Four - III faza skoro gotova\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III faza skoro gotova\Connect Four - III faza skoro gotova\Data\obj\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III Faza\Data\bin\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III Faza\Data\bin\Debug\Data.pdb
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III Faza\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III Faza\Data\obj\Debug\Data.dll
+C:\Users\Ana Stojanovic\Desktop\Connect Four - III Faza\Data\obj\Debug\Data.pdb
